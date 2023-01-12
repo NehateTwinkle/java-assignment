@@ -1,0 +1,52 @@
+                                                              JAVA INTRODUCTION 
+
+
+
+       ==>   Java is a popular programming languag.It was developed by James Gosling at Sun Microsystems in the year 1995,
+             later acquired by Oracle Corporation.
+
+      ==>    Java makes writing,copiling,and debugging programming easy.It helps to create reusable code and modular programs.
+
+      ==>    Java is a class-based,object-oriented programming language and is designed to have as few implementation dependencies as possible.
+
+      ==>   A general-purpose programmind language made for devlopers to write once run anywhere that is compiled
+             java code can run on any Java Virtual Machine.
+
+      ==>   The syntex of Java is similar to c/c++.
+
+
+
+                                                   <==   OOP Lenguage   ==>
+
+       ==> Organizing the program in the terms of collection of objects is a way of object-oriented programming,
+           each of which represents an instance of th class.
+
+
+     ==> The four main concepts of Object Oriented programming are:
+
+      1) Abstraction
+      2)Encapsulation
+      3)Inheritance
+      4)polymorphism
+
+
+
+     Class:-  It is a collection of data members and member functions.
+
+      Object:- It is a real world entity.
+
+     ==>  Execution of java programm
+
+        1) public class 
+        2) static block
+        3) main method.
+
+                                                   <== JAVA TERMINOLOGY ==>
+
+
+           1) Java Virtual Machine(JVM).
+           2) Bytecode in the Development process.
+           3) Java Development Kit(JDK).
+           4) Java Runtime Environment(JRE).
+           5) Garbage Collector.
+           6) Class path.
